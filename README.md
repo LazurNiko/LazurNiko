@@ -1,7 +1,7 @@
 Hi I am Niko 💇‍♂️ , a passoniate AQA engineer from Ukraine. I am interested in penetration tester position where I can apply and improve my skills and knowledge to help secure applications and systems. Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I love to work with new Technologies and like to learn new things everytime.
 
 
-  <img src="https://komarev.com/ghpvc/?username=lazurniko&abbreviated=true" style="display: block;margin: 0 auto; max-width: 100%;">
+  <img src="https://komarev.com/ghpvc/?username=lazurniko&abbreviated=true" style="display: block;margin: 0 auto; max-width: 100%;text-align: center;">
 
 
 ![Static Badge](https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue)

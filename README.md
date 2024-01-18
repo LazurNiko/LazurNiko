@@ -9,13 +9,11 @@
 ![Static Badge](https://img.shields.io/badge/Burp_Suite-%23ffffff?logo=portswigger&logoColor=%23FF6633&labelColor=%23ffffff&&color=%23FF6633)
 ![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)
 
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazurniko&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazurniko&layout=donut)](https://github.com/lazurniko/github-readme-stats)
 [![Niko Lazur profile views](https://u8views.com/api/v1/github/profiles/74565339/views/day-week-month-total-count.svg)](https://u8views.com/github/LazurNiko)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/lazurniko/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/lazurniko/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=320" />
 </a>

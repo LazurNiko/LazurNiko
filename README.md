@@ -2,7 +2,7 @@
 
 <h3 align="center">a passoniate AQA engineer from Ukraine.</h3>
 
-<span  align="center" style="color:#fff; font-family: Rajdhani; font-size: 2em;">Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration tester position where I can apply and improve my skills and knowledge to help secure applications and systems. I love to work with new Technologies and like to learn new things everytime.  </span>
+<span  align="center" style="color:#fff; font-family: Roboto Mono; font-size: 2em;">Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration tester position where I can apply and improve my skills and knowledge to help secure applications and systems. I love to work with new Technologies and like to learn new things everytime.  </span>
 
 <br>
 
@@ -31,6 +31,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=320&theme=gotham" />
 </a>
 </div>
+
+<br>
+<br>
+
+### My CV here:
+
+
 
 
 <br>

@@ -30,7 +30,7 @@ Contact with me:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko&rank_icon=github&theme=gotham" />
 </a>
 <a href="https://github.com/lazurniko/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=100%&theme=gotham" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=320&theme=gotham" />
 </a>
 
 

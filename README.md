@@ -1,5 +1,4 @@
 ![Static Badge](https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue)
-![Static Badge](https://img.shields.io/badge/LIz4rd-%23ffffff?style=plastic&logo=tryhackme&logoColor=%23ffffff&labelColor=black&link=https%3A%2F%2Ftryhackme.com%2Fp%2FLIz4rd)
 ![Static Badge](https://img.shields.io/badge/lazur.niko@gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=%23787777)

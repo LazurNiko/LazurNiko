@@ -22,7 +22,18 @@
 <br>
 <br>
 
-Contact with me:
+<a href="https://github.com/lazurniko/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko&rank_icon=github&theme=gotham" />
+</a>
+<a href="https://github.com/lazurniko/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+</a>
+
+<br>
+<br>
+<br>
+
+Contact me:
 
 <a href="https://www.linkedin.com/in/niko-lazur">
   <img src="https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue" />
@@ -31,16 +42,4 @@ Contact with me:
 <a href="mailto:lazur.niko@gmail.com">
   <img src="https://img.shields.io/badge/lazur.niko@gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
 </a>
-
-<br>
-<br>
-<br>
-
-<a href="https://github.com/lazurniko/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko&rank_icon=github&theme=gotham" />
-</a>
-<a href="https://github.com/lazurniko/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-</a>
-
 

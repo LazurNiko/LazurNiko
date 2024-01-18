@@ -40,21 +40,21 @@
                                                `:oDFo:`                            
                                            ./PortScanner/.                          
                                         -+dHJ5aGFyZGVyIQ==+-                    
-                                    `:sm⏣~~Destroy.No.Data~~s:`                
+                                    `:sm⏣~~Destroy.No.Data~~s:`                                   
                                  -+h2~~Maintain.No.Persistence~~h+-              
                              `:odNo2~~Above.All.Else.Do.No.Harm~~Ndo:`          
-                          ./etc/shadow.0days-Data'%20OR%201=1--.No.0MN8'/.      
-                       -++SecKCoin++e.AMd`       `.-://///+hbove.913.ElsMNh+-    
-                      -~/.ssh/id_rsa.Des-                  `htN01UserWroteMe!-  
-                      :dopeAW.No<nano>o                     :is:TЯiKC.sudo-.A:  
-                      :we're.all.alike'`                     The.PFYroy.No.D7:  
-                      :PLACEDRINKHERE!:                      yxp_cmdshell.Ab0:    
+                          ./etc/shadow.0days-Data'%20OR%201=1--.No.0MN8'/.                                 The QUITER you become,
+                       -++SecKCoin++e.AMd`       `.-://///+hbove.913.ElsMNh+-                                     the more
+                      -~/.ssh/id_rsa.Des-                  `htN01UserWroteMe!-                                      you
+                      :dopeAW.No<nano>o                     :is:TЯiKC.sudo-.A:                                    able to
+                      :we're.all.alike'`                     The.PFYroy.No.D7:                                     HEAR.
+                      :PLACEDRINKHERE!:                      yxp_cmdshell.Ab0:                           
                       :msf>exploit -j.                       :Ns.BOB&ALICEes7:    
                       :---srwxrwx:-.`                        `MS146.52.No.Per:    
-                      :<script>.Ac816/                        sENbove3101.404:    
+                      :<script>.Ac816/                        sENbove3101.404:                                      
                       :NT_AUTHORITY.Do                        `T:/shSYSTEM-.N:    
                       :09.14.2011.raid                       /STFU|wall.No.Pr:    
-                      :hevnsntSurb025N.                      dNVRGOING2GIVUUP:    
+                      :hevnsntSurb025N.                      dNVRGOING2GIVUUP:                                            
                       :#OUTHOUSE-  -s:                       /corykennedyData:    
                       :$nmap -oS                              SSo.6178306Ence:    
                       :Awsm.da:                            /shMTl#beats3o.No.:    

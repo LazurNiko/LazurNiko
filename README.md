@@ -32,11 +32,6 @@ Contact with me:
   <img src="https://img.shields.io/badge/lazur.niko@gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
 </a>
 
-
-
-
-
-
 <a href="https://github.com/lazurniko/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko&rank_icon=github&theme=gotham" />
 </a>

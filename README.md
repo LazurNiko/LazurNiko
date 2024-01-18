@@ -1,6 +1,9 @@
-<animated-image data-catalyst="" style="float: left; width: 21%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" align="left"></a>
+<div>
+      <animated-image data-catalyst="" style="float: left; width: 21%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" align="left"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" target="_blank">
+</div>
+
           
 <h1 align="center">Hi I am Niko :alien:,</h1>
 

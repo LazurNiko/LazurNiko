@@ -52,7 +52,7 @@
 ---
 
 <ul style="display: inline-block">
-<b style="color: #ABD200">API vulnerability Testing</b>
+<b style="color: %23ABD200">API vulnerability Testing</b>
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>

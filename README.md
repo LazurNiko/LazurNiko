@@ -23,6 +23,8 @@
 <br>
 <br>
 
+### :part_alternation_mark: My GitHub Stats:
+
 <div align="center">
   <a href="https://github.com/lazurniko/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko&rank_icon=github&theme=merko&border_color=599200" />
@@ -35,14 +37,34 @@
 <br>
 <br>
 
-### :point_down:My CV here (Link):
+### :point_down: My CV here (Link):
 
-![Static Badge](https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F)
-
-
-
+<a href="https://lazurniko.github.io/QA-engineer-cv/">
+<img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F">
+</a>
 
 <br>
+<br>
+<br>
+
+
+### :zap: My activities:
+
+<div style="display: flex; justify-content: center;">
+<ul style="display: inline-block">
+<b style="color: #ABD200">API vulnerability Testing</b>
+  <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
+  <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
+  <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
+<b style="color: #ABD200">Automation Testing</b>
+  <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
+  <li>Build test scripts using <code>Javascript</code></li>
+  <li>Wrote test cases based on test scenario</li>
+  <li>Generated test reports using Allure</li>
+</ul> 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="max-width: 80%; display: inline-block;" align="right">
+</div>
+
 <br>
 <br>
 

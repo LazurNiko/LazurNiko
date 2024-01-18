@@ -5,4 +5,4 @@
 ![Static Badge](https://img.shields.io/badge/Kali_Linux-%23557C94?logo=kalilinux&logoColor=%23557C94&labelColor=%23ffffff&color=%23557C94)
 ![Static Badge](https://img.shields.io/badge/Burp_Suite-%23ffffff?logo=portswigger&logoColor=%23FF6633&labelColor=%23ffffff&&color=%23FF6633)
 ![Static Badge](https://img.shields.io/badge/Postman-%23ffffff?logo=postman&logoColor=%23FF6C37&labelColor=%23ffffff&&color=%23FF6C37)
-![Static Badge](https://img.shields.io/badge/Metasploit-%233a34eb)
+![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)

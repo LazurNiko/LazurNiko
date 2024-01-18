@@ -10,7 +10,8 @@
 ![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)
 
 ![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazurniko&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazurniko&layout=donut)](https://github.com/lazurniko/github-readme-stats)
+
 
 [![Niko Lazur profile views](https://u8views.com/api/v1/github/profiles/74565339/views/day-week-month-total-count.svg)](https://u8views.com/github/LazurNiko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazurniko&layout=donut)](https://github.com/lazurniko/github-readme-stats)

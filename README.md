@@ -35,10 +35,11 @@
 <br>
 <br>
 
-### My CV here:
-- :paperclip: ![Niko_Lazur_CV](https://lazurniko.github.io/QA-engineer-cv/)
+### :point_down:My CV here (Link):
 
-[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://lazurniko.github.io/QA-engineer-cv/")
+ [![Niko_Lazur_CV](/img/cv_matrix.png)](https://lazurniko.github.io/QA-engineer-cv/)
+
+
 
 <br>
 <br>

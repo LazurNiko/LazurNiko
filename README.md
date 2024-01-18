@@ -1,7 +1,7 @@
 Hi I am Niko 💇‍♂️ , a passoniate AQA engineer from Ukraine. I am interested in penetration tester position where I can apply and improve my skills and knowledge to help secure applications and systems. Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I love to work with new Technologies and like to learn new things everytime.
 
 <div>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=lazurniko&abbreviated=true)
 </div>
 
 

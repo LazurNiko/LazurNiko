@@ -1,1 +1,1 @@
-![Static Badge](https://img.shields.io/badge/:Java)
+![Static Badge](https://img.shields.io/badge/Java_Script-blue)

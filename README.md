@@ -36,7 +36,7 @@
 <br>
 
 ### My CV here:
-![Niko_Lazur_CV](https://lazurniko.github.io/QA-engineer-cv/)
+![:paperclip:Niko_Lazur_CV](https://lazurniko.github.io/QA-engineer-cv/)
 
 <br>
 <br>

@@ -5,7 +5,7 @@ Hi I am Niko 💇‍♂️ , a passoniate AQA engineer from Ukraine. I am intere
 </div>
 
 <a href="mailto:lazur.niko@gmail.com">
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg> />
+<img src="https://img.shields.io/badge/Gmail-%23ffffff?style=flat&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EGmail%3C%2Ftitle%3E%3Cpath%20d%3D%22M24%205.457v13.909c0%20.904-.732%201.636-1.636%201.636h-3.819V11.73L12%2016.64l-6.545-4.91v9.273H1.636A1.636%201.636%200%200%201%200%2019.366V5.457c0-2.023%202.309-3.178%203.927-1.964L5.455%204.64%2012%209.548l6.545-4.91%201.528-1.145C21.69%202.28%2024%203.434%2024%205.457z%22%2F%3E%3C%2Fsvg%3E&logoColor=%23EA4335&color=%23EA4335" />
 </a>
 
 ![Static Badge](https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue)

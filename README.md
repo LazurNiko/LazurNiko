@@ -9,4 +9,4 @@
 ![Static Badge](https://img.shields.io/badge/Burp_Suite-%23ffffff?logo=portswigger&logoColor=%23FF6633&labelColor=%23ffffff&&color=%23FF6633)
 ![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)
 
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazurniko&hide=contribs,prs)
+![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazurniko&show_icons=true&bg_color=gotham)

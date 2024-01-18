@@ -36,9 +36,7 @@
 <br>
 
 ### My CV here:
-
-
-
+![Niko_Lazur_CV](https://img.shields.io/website?url=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F)
 
 <br>
 <br>

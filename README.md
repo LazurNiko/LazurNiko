@@ -13,3 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazurniko&layout=donut)](https://github.com/lazurniko/github-readme-stats)
 [![Niko Lazur profile views](https://u8views.com/api/v1/github/profiles/74565339/views/day-week-month-total-count.svg)](https://u8views.com/github/LazurNiko)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi I am Niko :alien:,</h1>
 
-<h3 align="center">a passoniate AQA engineer from Ukraine.</h3>
+<h3 align="center">a passionate AQA engineer from Ukraine.</h3>
 
 <span  align="center" style="color:#fff; font-family: Roboto; font-size: 2em;">Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration tester position where I can apply and improve my skills and knowledge to help secure applications and systems. I love to work with new Technologies and like to learn new things everytime.  </span>
 

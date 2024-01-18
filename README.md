@@ -7,7 +7,7 @@ Hi I am Niko 💇‍♂️ , a passoniate AQA engineer from Ukraine. I am intere
 
 
 ![Static Badge](https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue)
-![Static Badge](https://img.shields.io/badge/lazur.niko@gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black)
+![Static Badge](https://img.shields.io/badge/lazur.niko@gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&link=mailto%3Alazur.niko%40gmail.com&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23787777)
 ![Static Badge](https://img.shields.io/badge/Playwright-%232EAD33?&style=for-the-badge&logo=playwright&logoColor=%232EAD33&labelColor=white)

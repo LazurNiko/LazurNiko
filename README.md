@@ -49,7 +49,7 @@
 
 
 ### :zap: My activities:
-
+---
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <ul style="display: inline-block">
 <b style="color: #ABD200">API vulnerability Testing</b>

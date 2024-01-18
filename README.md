@@ -38,7 +38,7 @@
 ### My CV here:
 - :paperclip: ![Niko_Lazur_CV](https://lazurniko.github.io/QA-engineer-cv/)
 
-[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")
+[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://lazurniko.github.io/QA-engineer-cv/")
 
 <br>
 <br>

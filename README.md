@@ -4,6 +4,9 @@ Hi I am Niko 💇‍♂️ , a passoniate AQA engineer from Ukraine. I am intere
 <img src="https://komarev.com/ghpvc/?username=lazurniko&abbreviated=true" />
 </div>
 
+
+Contact with me:
+
 <a href="https://www.linkedin.com/in/niko-lazur">
   <img src="https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue" />
 </a>

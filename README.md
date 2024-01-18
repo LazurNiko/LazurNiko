@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Test_Automation-%239eeb34)
-![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=black)
+![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/playwright-%232EAD33?logo=playwright&logoColor=%232EAD33&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?logo=cypress&logoColor=%23557C94&labelColor=%23ffffff&color=%23557C94)
 ![Static Badge](https://img.shields.io/badge/Kali_Linux-%23ffffff?logo=kalilinux&logoColor=%23000000&labelColor=%23557C94&color=black)

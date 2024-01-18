@@ -43,11 +43,11 @@
                                     `:sm⏣~~Destroy.No.Data~~s:`                                   
                                  -+h2~~Maintain.No.Persistence~~h+-              
                              `:odNo2~~Above.All.Else.Do.No.Harm~~Ndo:`          
-                          ./etc/shadow.0days-Data'%20OR%201=1--.No.0MN8'/.                              The QUITER you become,
-                       -++SecKCoin++e.AMd`       `.-://///+hbove.913.ElsMNh+-                                the more
-                      -~/.ssh/id_rsa.Des-                  `htN01UserWroteMe!-                               you
-                      :dopeAW.No<nano>o                     :is:TЯiKC.sudo-.A:                                  able to
-                      :we're.all.alike'`                     The.PFYroy.No.D7:                                    HEAR.
+                          ./etc/shadow.0days-Data'%20OR%201=1--.No.0MN8'/.                       The QUITER you become,
+                       -++SecKCoin++e.AMd`       `.-://///+hbove.913.ElsMNh+-                        the more
+                      -~/.ssh/id_rsa.Des-                  `htN01UserWroteMe!-                           you
+                      :dopeAW.No<nano>o                     :is:TЯiKC.sudo-.A:                             able to
+                      :we're.all.alike'`                     The.PFYroy.No.D7:                                 HEAR.
                       :PLACEDRINKHERE!:                      yxp_cmdshell.Ab0:                           
                       :msf>exploit -j.                       :Ns.BOB&ALICEes7:    
                       :---srwxrwx:-.`                        `MS146.52.No.Per:    

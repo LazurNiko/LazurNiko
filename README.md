@@ -102,6 +102,8 @@ Contact me:
   <img src="https://img.shields.io/badge/Niko_Lazur-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
 </a>
 
-<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="max-width: 100%; display: inline-block;" height="20">
+<a href="https://lazurniko.github.io/QA-engineer-cv/">
+<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
+</a>
 
 

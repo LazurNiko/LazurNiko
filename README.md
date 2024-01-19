@@ -1,9 +1,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 
-<h1 align="center"><fontRaj>Hi I am Niko :alien:,</fontRaj></h1>
+<h1 align="center">Hi I am Niko :alien:,</h1>
 
-<h2 align="center"><fontRaj>a passoniate AQA engineer from Ukraine.</fontRaj></h2>
+<h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
 
 <span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', sans-serif;">
 Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to  apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
@@ -57,11 +57,11 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ---
 
 <ul style="display: inline-block">
-<b><span color:#ABD200>Automation Testing</span></b>
+<b><span style="color: #ABD200">Automation Testing</span></b>
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
-<b><span style="color: `#ABD200`">Automation Testing</span></b>
+<b><span style="color: #ABD200">Automation Testing</span></b>
   <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
   <li>Build test scripts using <code>Javascript</code></li>
   <li>Wrote test cases based on test scenario</li>

@@ -11,8 +11,8 @@ green { color: #ABD200 }
 
 <h2 align="center"><fontRaj>a passoniate AQA engineer from Ukraine.</fontRaj></h2>
 
-<span align="center" style="color:#fff; font-size: 2em;"><fontRaj>
-Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to  apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</fontRaj></span>
+<span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', sans-serif;">
+Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to  apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
 
 <br>
 
@@ -62,17 +62,17 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ### :zap: My activities:
 ---
 
-<ul style="display: inline-block"><fontRaj>
-<b><green>API vulnerability Testing</green></b>
+<ul style="display: inline-block">
+<b><span style="color: #ABD200">Automation Testing</span></b>
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
-<b><green>Automation Testing</green></b>
+<b><span style="color: #ABD200">Automation Testing</span></b>
   <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
   <li>Build test scripts using <code>Javascript</code></li>
   <li>Wrote test cases based on test scenario</li>
   <li>Generated test reports using Allure</li>
-<b><green>Web Penetration Testing</green></b>
+<b><span style="color: #ABD200">Automation Testing</span></b>
   <li>Define Scopes, Gathering Information and Threat Modelling
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>
   <li>Exploitation <code>SQLMap, Hashcat</code> etc.</li>
@@ -80,7 +80,6 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
   <li>Reporting</li>
 </ul> 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
-</fontRaj>
 
 <br>
 <br>

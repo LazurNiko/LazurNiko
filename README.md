@@ -1,7 +1,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 
-<h1 align="center">Hi I am Niko :alien:,</h1>
+<h1 align="center" style="font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">Hi I am Niko :alien:,</h1>
 
 <h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
 

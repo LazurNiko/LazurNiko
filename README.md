@@ -55,9 +55,9 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 
 ### :zap: My activities:
 ---
-$\color{LimeGreen}{Automation Testing}$
+
 <ul style="display: inline-block">
-<b><span style="color: #ABD200">Automation Testing</span></b>
+<b>$\color{LimeGreen}{Automation Testing}$</b>
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>

@@ -5,7 +5,6 @@ fontRaj { font-family: "Rajdhani", "Odoo Unicode Support Noto", sans-serif; }
 green { color: #ABD200 }
 </style>
 
-
 <h1 align="center"><fontRaj>Hi I am Niko :alien:,</fontRaj></h1>
 
 <h2 align="center"><fontRaj>a passoniate AQA engineer from Ukraine.</fontRaj></h2>

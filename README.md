@@ -57,6 +57,8 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ### :zap: My activities:
 ---
 
+<br>
+
 $\color{LimeGreen}API-Vulnerability-Testing$
 <ul style="display: inline-block">
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>

@@ -1,11 +1,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 
-<style>
-fontRaj { font-family: "Rajdhani", "Odoo Unicode Support Noto", sans-serif; }
-green { color: #ABD200 }
-</style>
-
 <h1 align="center"><fontRaj>Hi I am Niko :alien:,</fontRaj></h1>
 
 <h2 align="center"><fontRaj>a passoniate AQA engineer from Ukraine.</fontRaj></h2>

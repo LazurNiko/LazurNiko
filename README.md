@@ -92,6 +92,8 @@ $\color{LimeGreen}Web-Penetration-Testing$
 <br>
 <br>
 
+<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="20">
+
 Contact me:
 
 <a href="https://www.linkedin.com/in/niko-lazur">
@@ -103,4 +105,5 @@ Contact me:
 </a>
 
 
-<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="20">
+
+

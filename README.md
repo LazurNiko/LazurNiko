@@ -62,6 +62,7 @@ $\color{LimeGreen}{API Vulnerability Testing}$
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
 </ul>
+
 $\color{LimeGreen}{Automation Testing}$
 <ul style="display: inline-block">
   <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
@@ -69,14 +70,15 @@ $\color{LimeGreen}{Automation Testing}$
   <li>Wrote test cases based on test scenario</li>
   <li>Generated test reports using Allure</li>
 </ul>
+
 $\color{LimeGreen}{Web Penetration Testing}$
-  <ul style="display: inline-block">
+<ul style="display: inline-block">
   <li>Define Scopes, Gathering Information and Threat Modelling
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>
   <li>Exploitation <code>SQLMap, Hashcat</code> etc.</li>
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>
   <li>Reporting</li>
-  </ul>
+</ul>
 
   
 </ul> 

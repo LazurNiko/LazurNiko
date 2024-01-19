@@ -56,7 +56,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ### :zap: My activities:
 ---
 
-> [!NOTE]
+> [!Automation Testing]
 > lllll
 <ul style="display: inline-block">
 <b><span style="color: #ABD200">Automation Testing</span></b>

@@ -56,22 +56,29 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ### :zap: My activities:
 ---
 
-<ul style="display: inline-block">
 $\color{LimeGreen}{API Vulnerability Testing}$
+<ul style="display: inline-block">
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
+</ul>
 $\color{LimeGreen}{Automation Testing}$
+<ul style="display: inline-block">
   <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
   <li>Build test scripts using <code>Javascript</code></li>
   <li>Wrote test cases based on test scenario</li>
   <li>Generated test reports using Allure</li>
+</ul>
 $\color{LimeGreen}{Web Penetration Testing}$
+  <ul style="display: inline-block">
   <li>Define Scopes, Gathering Information and Threat Modelling
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>
   <li>Exploitation <code>SQLMap, Hashcat</code> etc.</li>
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>
   <li>Reporting</li>
+  </ul>
+
+  
 </ul> 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
 

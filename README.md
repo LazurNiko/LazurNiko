@@ -42,6 +42,10 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 </div>
 
 <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
+<br>
 <br>
 
 ### :point_down: My CV here (Link):
@@ -49,11 +53,6 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <a href="https://lazurniko.github.io/QA-engineer-cv/">
 <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F">
 </a>
-
-<br>
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 <br>
 <br>

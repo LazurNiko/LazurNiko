@@ -52,7 +52,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <br>
 <br>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
 ### :zap: My activities:
 ---
 
@@ -79,10 +79,6 @@ $\color{LimeGreen}Web-Penetration-Testing$
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>
   <li>Reporting</li>
 </ul>
-
-  
-</ul> 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
 
 <br>
 <br>

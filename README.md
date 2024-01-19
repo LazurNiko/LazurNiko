@@ -1,5 +1,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
+
 <style>
 fontRaj { font-family: "Rajdhani", "Odoo Unicode Support Noto", sans-serif; }
 green { color: #ABD200 }
@@ -61,7 +62,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ---
 
 <ul style="display: inline-block"><fontRaj>
-<b style="color: %23ABD200"><green>API vulnerability Testing</green></b>
+<b><green>API vulnerability Testing</green></b>
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
@@ -71,7 +72,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
   <li>Wrote test cases based on test scenario</li>
   <li>Generated test reports using Allure</li>
 <b><green>Web Penetration Testing</green></b>
-  <li>Define Scopes, Gathering Information and Threat Modelling<code>Cypress</code>, <code>Playwright</code> frameworks</li>
+  <li>Define Scopes, Gathering Information and Threat Modelling
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>
   <li>Exploitation <code>SQLMap, Hashcat</code> etc.</li>
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>

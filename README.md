@@ -1,4 +1,4 @@
-<a href="https://lazurniko.github.io/QA-engineer-cv/">
+<a href="https://lazurniko.github.io/QA-engineer-cv/" align="center">
 <img alt="Hello" src="./img/IMG_6268.JPG" align="center" style="max-width: 100%">
 </a>
 

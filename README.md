@@ -1,11 +1,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 
-<h1 align="center"><fontRaj>Hi I am Niko :alien:,</fontRaj></h1>
+<h1 align="center">Hi I am Niko :alien:,</h1>
 
-<h2 align="center"><fontRaj>a passoniate AQA engineer from Ukraine.</fontRaj></h2>
+<h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
 
-<span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', sans-serif;">
+<span align="center" style="font-size: 2em; font-family: Rajdhani, 'Odoo Unicode Support Noto', sans-serif;">
 Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to  apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
 
 <br>
@@ -50,33 +50,46 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 
 <br>
 <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
+<br>
+<br>
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
 
 ### :zap: My activities:
 ---
 
+$\color{LimeGreen}API-Vulnerability-Testing$
 <ul style="display: inline-block">
-<b><span style="color: `#ABD200`">Automation Testing</span></b>
   <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
   <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
   <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
-<b><span style="color: `#ABD200`">Automation Testing</span></b>
+</ul>
+
+$\color{LimeGreen}Automation-Testing$
+<ul style="display: inline-block">
   <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
   <li>Build test scripts using <code>Javascript</code></li>
   <li>Wrote test cases based on test scenario</li>
   <li>Generated test reports using Allure</li>
-<b><span style="color: `#ABD200`">Automation Testing</span></b>
+</ul>
+
+$\color{LimeGreen}Web-Penetration-Testing$
+<ul style="display: inline-block">
   <li>Define Scopes, Gathering Information and Threat Modelling
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>
   <li>Exploitation <code>SQLMap, Hashcat</code> etc.</li>
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>
   <li>Reporting</li>
-</ul> 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
+</ul>
 
 <br>
 <br>
+
+<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
 
 Contact me:
 
@@ -87,3 +100,5 @@ Contact me:
 <a href="mailto:lazur.niko@gmail.com">
   <img src="https://img.shields.io/badge/Niko_Lazur-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
 </a>
+
+

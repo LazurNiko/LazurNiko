@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Hello" src="">
+  <img alt="Hello" src="./IMG_6268.jpg">
 </picture>
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

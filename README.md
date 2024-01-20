@@ -98,7 +98,7 @@ Contact me:
 </a>
 
 <a href="mailto:lazur.niko@gmail.com">
-  <img src="https://img.shields.io/badge/Niko_Lazur-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
 </a>
 
 <a href="https://lazurniko.github.io/QA-engineer-cv/">

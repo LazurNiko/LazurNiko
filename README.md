@@ -105,5 +105,5 @@ Contact me:
 <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
 </a>
 
-<img width="461" height="51" src="https://raw.githubusercontent.com/ladjs/custom-fonts-in-emails/master/art/png@2x.png" title="Make something people want" alt="Make something people want" style="color: white;font-size: 25.5px;line-height: 51px;text-align: center;background-color: #ff6600;">
+<img width="461" height="51" src="https://raw.githubusercontent.com/ladjs/custom-fonts-in-emails/master/art/png@2x.png" title="Make something people want" alt="Make something people want" style="color: white;font-size: 25.5px;line-height: 51px;text-align: center;font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';>
 

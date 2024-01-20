@@ -1,6 +1,4 @@
-<picture>
-  <img alt="Hello" src="./img/IMG_6268.jpg">
-</picture>
+<img alt="Hello" src="./img/IMG_6268.jpg">
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">

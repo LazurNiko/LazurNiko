@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./img/cv_matrix.png">
+  <img alt="Hello" src="">
 </picture>
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

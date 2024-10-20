@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Hello" src="./img/IMG_6268.JPG" align="center" style="width: 600px;">
+<img alt="Hello" src="./img/IMG_7944.jpg" align="center" style="width: 600px;">
 </div>
 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

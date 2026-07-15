@@ -5,6 +5,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 
+<h1 align="center">Hi I am Niko :alien:,</h1>
+
+<h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
+
+<span align="center" style="font-size: 2em; font-family: Rajdhani, 'Odoo Unicode Support Noto', sans-serif;">
 <h1 align="center" style="font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">Hi I am Niko :alien:,</h1>
 
 <h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
@@ -62,12 +67,16 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <br>
 <br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
+<br>
+<br>
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
 
 ### :zap: My activities:
 ---
-
-<br>
 
 $\color{LimeGreen}API-Vulnerability-Testing$
 <ul style="display: inline-block">
@@ -96,6 +105,8 @@ $\color{LimeGreen}Web-Penetration-Testing$
 <br>
 <br>
 
+<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
+
 Contact me:
 
 <a href="https://www.linkedin.com/in/niko-lazur">
@@ -109,3 +120,5 @@ Contact me:
 <a href="https://lazurniko.github.io/QA-engineer-cv/">
 <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
 </a>
+
+

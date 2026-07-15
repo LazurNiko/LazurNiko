@@ -55,7 +55,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 
 ### :point_down: My CV here (Link):
 
-<a href="https://lazurniko.github.io/QA-engineer-cv/">
+<a href="https://lazurniko.github.io/PenTest_CV/">
 <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F">
 </a>
 

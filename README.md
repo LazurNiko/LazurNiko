@@ -1,3 +1,7 @@
+<div align="center">
+<img alt="Hello" src="./img/IMG_7944.jpg" align="center" style="width: 300 px;">
+</div>
+
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 
@@ -6,22 +10,30 @@
 <h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
 
 <span align="center" style="font-size: 2em; font-family: Rajdhani, 'Odoo Unicode Support Noto', sans-serif;">
+<h1 align="center" style="font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">Hi I am Niko :alien:,</h1>
+
+<h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
+
+<span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
 Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to  apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
 
+<br>
 <br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lazurniko&abbreviated=true" />
 </div>
+
 <br>
 <br>
 
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23787777)
 ![Static Badge](https://img.shields.io/badge/Playwright-%232EAD33?&style=for-the-badge&logo=playwright&logoColor=%232EAD33&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-%23ffffff?&style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=%23ffffff&&color=%23FF6C37)
-![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?&style=for-the-badge&logo=cypress&logoColor=%23557C94&labelColor=%23ffffff&color=%23557C94)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?&style=for-the-badge&logo=cypress&logoColor=%23557C94&labelColor=%23ffffff&color=%23557C94)
 ![Static Badge](https://img.shields.io/badge/Kali_Linux-black?&style=for-the-badge&logo=kalilinux&logoColor=%23557C94&labelColor=%23ffffff&color=%23363636)
+![Static Badge](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=%231679A7&labelColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Burp_Suite-%23ffffff?&style=for-the-badge&logo=portswigger&logoColor=%23FF6633&labelColor=%23ffffff&&color=%23FF6633)
 ![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?&style=for-the-badge&logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)
 
@@ -40,11 +52,15 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 </div>
 
 <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
+<br>
 <br>
 
 ### :point_down: My CV here (Link):
 
-<a href="https://lazurniko.github.io/QA-engineer-cv/">
+<a href="https://lazurniko.github.io/PenTest_CV/">
 <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F">
 </a>
 
@@ -98,7 +114,11 @@ Contact me:
 </a>
 
 <a href="mailto:lazur.niko@gmail.com">
-  <img src="https://img.shields.io/badge/Niko_Lazur-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
+</a>
+
+<a href="https://lazurniko.github.io/QA-engineer-cv/">
+<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
 </a>
 
 

@@ -67,7 +67,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <br>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 <br>
 <br>

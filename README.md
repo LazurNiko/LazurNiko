@@ -9,11 +9,6 @@
 
 <h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
 
-<span align="center" style="font-size: 2em; font-family: Rajdhani, 'Odoo Unicode Support Noto', sans-serif;">
-<h1 align="center" style="font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">Hi I am Niko :alien:,</h1>
-
-<h2 align="center">a passoniate AQA engineer from Ukraine.</h2>
-
 <span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
 Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to  apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
 

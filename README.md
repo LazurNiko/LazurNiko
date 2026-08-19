@@ -41,14 +41,6 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/LazurNiko/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LazurNiko&rank_icon=github&theme=merko&border_color=599200" />
-</a>
-</div>
-
-<br>
 <br>
 
 ### :point_down: My CV here (Link):

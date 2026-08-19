@@ -21,7 +21,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lazurniko&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=LazurNiko&abbreviated=true" />
 </div>
 
 <br>
@@ -44,7 +44,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 
 <div align="center">
   <a href="https://github.com/lazurniko/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lazurniko&rank_icon=github&theme=merko&border_color=599200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LazurNiko&rank_icon=github&theme=merko&border_color=599200" />
 </a>
 <a href="https://github.com/lazurniko/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazurniko&layout=compact&langs_count=8&card_width=320&theme=merko&border_color=599200" />
@@ -53,7 +53,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lazurniko&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 <br>
 <br>

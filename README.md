@@ -36,6 +36,11 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <br>
 
 ### :part_alternation_mark: My GitHub Stats:
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
+<br>
 
 <div align="center">
   <a href="https://github.com/LazurNiko/github-readme-stats">
@@ -56,11 +61,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 </a>
 
 <br>
-<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
-<br>
 <br>
 <br>
 

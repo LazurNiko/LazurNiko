@@ -73,14 +73,17 @@ $\color{LimeGreen}Web-Penetration-Testing$
 </ul>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">
-Contact me:
-<a href="https://www.linkedin.com/in/niko-lazur">
-  <img src="https://img.shields.io/badge/LinkedIn-Niko%20Lazur-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Niko Lazur" />
-</a>
+<h3 align="center">Contact me:</h3>
 
-<a href="mailto:lazur.niko@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" alt="Email Niko Lazur" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/niko-lazur">
+    <img src="https://img.shields.io/badge/LinkedIn-Niko%20Lazur-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Niko Lazur" />
+  </a>
+
+  <a href="mailto:lazur.niko@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" alt="Email Niko Lazur" />
+  </a>
+</div>
 
 <br>
 <br>

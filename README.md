@@ -28,9 +28,8 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?&style=for-the-badge&logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)
 <img src="./img/zeek.png" alt="Zeek logo" height="28"> ![Zeek](https://img.shields.io/badge/Zeek-1769AA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Pale%20Alto-F26522?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-
-### :part_alternation_mark: My GitHub Stats:
 <br>
+### :part_alternation_mark: My GitHub Stats:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%" alt="GitHub activity graph">
 
 <h3 align="center">:point_down: My CV here (Link):</h3>

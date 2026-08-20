@@ -72,7 +72,7 @@ $\color{LimeGreen}Web-Penetration-Testing$
 
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" style="width: 100%; display: inline-block;" height="20">
+<img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">
 
 Contact me:
 

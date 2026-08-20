@@ -11,7 +11,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Profile%20views-LazurNiko-0A66C2?style=flat" alt="GitHub profile: LazurNiko" />
+<img src="https://komarev.com/ghpvc/?username=LazurNiko&label=PROFILE+VIEWS&color=0A66C2&style=flat" alt="GitHub profile views" />
 </div>
 
 <br>

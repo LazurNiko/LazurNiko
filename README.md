@@ -1,7 +1,3 @@
-<div align="center">
-<img alt="Hello" src="./img/IMG_7944.jpg" align="center" style="width: 300 px;">
-</div>
-
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500&display=swap" rel="stylesheet">
 

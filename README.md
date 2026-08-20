@@ -9,6 +9,7 @@
 Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
 
 <br>
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LazurNiko&label=PROFILE+VIEWS&color=0A66C2&style=flat" alt="GitHub profile views" />

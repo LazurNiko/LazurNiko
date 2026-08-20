@@ -32,13 +32,11 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ### :part_alternation_mark: My GitHub Stats:
 ![Niko's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&title_color=00ff41&text_color=39d353&hide_border=true&custom_title=%3E_contribution.log)
 
-<h3 align="center">:point_down: My CV here (Link):</h3>
+### :point_down: My CV here (Link)
 
-<div align="center">
   <a href="https://lazurniko.github.io/PenTest_CV/">
     <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link">
   </a>
-</div>
 
 <br>
 

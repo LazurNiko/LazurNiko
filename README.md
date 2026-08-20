@@ -9,10 +9,9 @@
 Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
 
 <br>
-<br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=LazurNiko&abbreviated=true" />
+<img src="https://img.shields.io/badge/Profile%20views-LazurNiko-0A66C2?style=flat" alt="GitHub profile: LazurNiko" />
 </div>
 
 <br>
@@ -31,19 +30,19 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 
 ### :part_alternation_mark: My GitHub Stats:
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&theme=merko&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%" alt="GitHub activity graph">
 
 <br>
 
 ### :point_down: My CV here (Link):
 
 <a href="https://lazurniko.github.io/PenTest_CV/">
-<img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F">
+<img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link">
 </a>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right" alt="Animated illustration">
 
 ### :zap: My activities:
 ---
@@ -64,7 +63,7 @@ $\color{LimeGreen}Automation-Testing$
 
 $\color{LimeGreen}Web-Penetration-Testing$
 <ul style="display: inline-block">
-  <li>Define Scopes, Gathering Information and Threat Modelling
+  <li>Define Scopes, Gathering Information and Threat Modelling</li>
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>
   <li>Exploitation <code>SQLMap, Hashcat</code> etc.</li>
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>
@@ -73,20 +72,18 @@ $\color{LimeGreen}Web-Penetration-Testing$
 
 <br>
 
-<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
+<img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" style="width: 100%; display: inline-block;" height="20">
 
 Contact me:
 
 <a href="https://www.linkedin.com/in/niko-lazur">
-  <img src="https://img.shields.io/badge/Niko_Lazur-%230A66C2?style=social&logo=linkedin&logoColor=%230A66C2&labelColor=%23ffffff&color=blue" />
+  <img src="https://img.shields.io/badge/LinkedIn-Niko%20Lazur-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Niko Lazur" />
 </a>
 
 <a href="mailto:lazur.niko@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" />
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" alt="Email Niko Lazur" />
 </a>
 
 <a href="https://lazurniko.github.io/QA-engineer-cv/">
-<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%; display: inline-block;" height="20">
+  <img src="https://i.imgur.com/dBaSKWF.gif" alt="QA engineer CV" style="width: 100%; display: inline-block;" height="20">
 </a>
-
-

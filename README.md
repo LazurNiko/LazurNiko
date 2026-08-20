@@ -79,5 +79,6 @@ Contact me:
 <a href="mailto:lazur.niko@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&labelColor=black" alt="Email Niko Lazur" />
 </a>
+<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">

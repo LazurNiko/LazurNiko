@@ -28,8 +28,7 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ![Static Badge](https://img.shields.io/badge/Metasploit-%236D4C9F?&style=for-the-badge&logo=monster&logoColor=%230c3cfa&labelColor=%23ffffff&color=blue)
 <img src="./img/zeek.png" alt="Zeek logo" height="28"> ![Zeek](https://img.shields.io/badge/Zeek-1769AA?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Pale%20Alto-F26522?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Wazuh-%2369D3A7?&style=for-the-badge&logo=cypress&logoColor=%23557C94&labelColor=%23ffffff&color=%23557C94)
-
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4A90E2?style=for-the-badge&logo=wazuh&logoColor=white)
 <br>
 ### :part_alternation_mark: My GitHub Stats:
 ![Niko's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LazurNiko&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&title_color=00ff41&text_color=39d353&hide_border=true&custom_title=%3E_contribution.log)

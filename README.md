@@ -5,12 +5,12 @@
 
 <h2 align="center">Cybersecurity Engineer | SOC · DFIR · Detection Engineering</h2>
 
-<p align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
+<p style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
   I work on cybersecurity projects focused on Active Directory security,
   threat detection, incident response, and digital forensics.
 </p>
 
-<p align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
+<p style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
   My background combines software test automation with hands-on cybersecurity
   lab work. I build isolated environments to simulate attacks, collect telemetry,
   develop detection logic, and investigate security events.
@@ -78,14 +78,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">
 <h3 align="center">Contact me:</h3>
 
-<div align="center">
 <a href="https://lazurniko.github.io/PenTest_CV/">
-    <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link" />
+    <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link">
   </a>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/niko-lazur">
-    <img src="https://img.shields.io/badge/LinkedIn-Niko%20Lazur-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Niko Lazur" />
+    <img src="https://img.shields.io/badge/LinkedIn-Niko%20Lazur-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn: Niko Lazur">
   </a>
 
   <a href="mailto:lazur.niko@gmail.com">

@@ -37,7 +37,7 @@ My background combines software test automation with hands-on cybersecurity lab 
 
 ### :zap: Cybersecurity Projects:
 ---
-$\color{LimeGreen}Active Directory Security & DFIR Lab$
+#### Active Directory Security & DFIR Lab
 <ul style="display: inline-block">
   <li>Simulate Active Directory attack techniques: Kerberoasting, AS-REP Roasting, DCSync, and LSASS credential dumping.</li>
   <li>Develop and validate detection logic using Wazuh, Suricata, and Sysmon.</li>
@@ -47,7 +47,7 @@ $\color{LimeGreen}Active Directory Security & DFIR Lab$
   <li>Document incident investigation and response workflows</li>
 </ul>
 
-$\color{LimeGreen}Web & API Security$
+#### Web & API Security
 <ul style="display: inline-block">
   <li>Perform security testing of web applications and APIs</li>
   <li>Practice vulnerability assessment based on OWASP guidance</li>
@@ -55,7 +55,7 @@ $\color{LimeGreen}Web & API Security$
   <li>Document findings and technical reproduction steps</li>
 </ul>
 
-$\color{LimeGreen}Web-Penetration-Testing$
+#### Web-Penetration-Testing
 <ul style="display: inline-block">
   <li>Define Scopes, Gathering Information and Threat Modelling</li>
   <li>Active and Passive reconnaissance <code>Nikto, Shodan, Nmap, Recon-ng</code> etc.</li>

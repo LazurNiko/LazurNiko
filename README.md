@@ -3,10 +3,12 @@
 
 <h1 align="center">Hi I am Niko :alien:,</h1>
 
-<h2 align="center">AQA security engineer</h2>
+<h2 align="center">Cybersecurity Engineer | SOC · DFIR · Detection Engineering</h2>
 
 <span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
-Performed manual and automated testing (Playwright/Cypress) of web applications using various tools and frameworks. I am interested in penetration testing and love to apply and improve my skills and knowledge to help secure applications and systems. I like to work with new Technologies and like to learn new things everytime.</span>
+I work on cybersecurity projects focused on Active Directory security, threat detection, incident response, and digital forensics.
+
+My background combines software test automation with hands-on cybersecurity lab work. I build isolated environments to simulate attacks, collect telemetry, develop detection logic, and investigate security events.</span>
 
 <br>
 <br>
@@ -31,31 +33,26 @@ Performed manual and automated testing (Playwright/Cypress) of web applications 
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4A90E2?style=for-the-badge&logo=wazuh&logoColor=white)
 <br>
 
-### :point_down: My CV here (Link)
-
-  <a href="https://lazurniko.github.io/PenTest_CV/">
-    <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link">
-  </a>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right" alt="Animated illustration">
 
-### :zap: My activities:
+### :zap: Cybersecurity Projects:
 ---
-$\color{LimeGreen}API-Vulnerability-Testing$
+$\color{LimeGreen}Active Directory Security & DFIR Lab$
 <ul style="display: inline-block">
-  <li>Perform pentesting based on OWASP Top 10 API vulnerabilities</li>
-  <li>Using pentesting tools: Hashcat, Wfuzz, Jwt_tool, OWASP Zap</li>
-  <li>Analyze requests using <code>Postman</code> and <code>Burp Suite</code></li>
+  <li>Simulate Active Directory attack techniques: Kerberoasting, AS-REP Roasting, DCSync, and LSASS credential dumping.</li>
+  <li>Develop and validate detection logic using Wazuh, Suricata, and Sysmon.</li>
+  <li>Analyze Windows Event Logs, network traffic, and PCAP files</li>
+  <li>Correlate security events and build incident timelines</li>
+  <li>Practice evidence acquisition, integrity verification, and chain-of-custody documentation</li>
+  <li>Document incident investigation and response workflows</li>
 </ul>
 
-$\color{LimeGreen}Automation-Testing$
+$\color{LimeGreen}Web & API Security$
 <ul style="display: inline-block">
-  <li>Perform e2e and API testing using <code>Cypress</code>, <code>Playwright</code> frameworks</li>
-  <li>Build test scripts using <code>Javascript</code></li>
-  <li>Wrote test cases based on test scenario</li>
-  <li>Generated test reports using Allure</li>
+  <li>Perform security testing of web applications and APIs</li>
+  <li>Practice vulnerability assessment based on OWASP guidance</li>
+  <li>Analyze HTTP requests and responses using Burp Suite and Postman</li>
+  <li>Document findings and technical reproduction steps</li>
 </ul>
 
 $\color{LimeGreen}Web-Penetration-Testing$
@@ -69,6 +66,10 @@ $\color{LimeGreen}Web-Penetration-Testing$
 
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">
 <h3 align="center">Contact me:</h3>
+
+<a href="https://lazurniko.github.io/PenTest_CV/">
+    <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link">
+  </a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/niko-lazur">

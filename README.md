@@ -5,10 +5,16 @@
 
 <h2 align="center">Cybersecurity Engineer | SOC · DFIR · Detection Engineering</h2>
 
-<span align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
-I work on cybersecurity projects focused on Active Directory security, threat detection, incident response, and digital forensics.
+<p align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
+  I work on cybersecurity projects focused on Active Directory security,
+  threat detection, incident response, and digital forensics.
+</p>
 
-My background combines software test automation with hands-on cybersecurity lab work. I build isolated environments to simulate attacks, collect telemetry, develop detection logic, and investigate security events.</span>
+<p align="center" style="font-size: 2em; font-family: 'Rajdhani', 'Odoo Unicode Support Noto', 'sans-serif';">
+  My background combines software test automation with hands-on cybersecurity
+  lab work. I build isolated environments to simulate attacks, collect telemetry,
+  develop detection logic, and investigate security events.
+</p>
 
 <br>
 <br>
@@ -63,6 +69,11 @@ My background combines software test automation with hands-on cybersecurity lab 
   <li>Post Exploitation <code>Mimikatz, Metasploit, Netcat</code></li>
   <li>Reporting</li>
 </ul>
+
+### Background
+- Automation Tester — Capgemini Engineering
+- System Administrator — National Guard of Ukraine
+- Practical cybersecurity projects and independent lab development
 
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">
 <h3 align="center">Contact me:</h3>

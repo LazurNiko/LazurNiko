@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### 🛡️ Cybersecurity Projects:
+### Cybersecurity Projects:
 ---
 #### Active Directory Security & DFIR Lab
 <ul style="display: inline-block">

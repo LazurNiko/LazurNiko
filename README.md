@@ -78,8 +78,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" alt="Decorative banner" width="100%" height="20" style="display: block;">
 <h3>Contact me:</h3>
 
+<div align="center">
 <a href="https://lazurniko.github.io/PenTest_CV/">
-    <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link">
+    <img src="https://img.shields.io/badge/CV_Link-Green?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=https%3A%2F%2Flazurniko.github.io%2FQA-engineer-cv%2F" alt="CV link" />
   </a>
 
 </div>

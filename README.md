@@ -52,6 +52,8 @@
   <li>Document incident investigation and response workflows</li>
 </ul>
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right" alt="Animated illustration">
+
 #### Web & API Security
 <ul style="display: inline-block">
   <li>Perform security testing of web applications and APIs</li>
@@ -59,8 +61,6 @@
   <li>Analyze HTTP requests and responses using Burp Suite and Postman</li>
   <li>Document findings and technical reproduction steps</li>
 </ul>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right" alt="Animated illustration">
 
 #### Web-Penetration-Testing
 <ul style="display: inline-block">

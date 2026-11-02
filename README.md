@@ -58,7 +58,7 @@
 <ul style="display: inline-block">
   <li>Perform security testing of web applications and APIs</li>
   <li>Practice vulnerability assessment based on OWASP guidance</li>
-  <li>Analyze HTTP requests and responses using Burp Suite and Postman</li>
+  <li>Analyze HTTP requests and responses using <code>Burp Suite</code>code> and <code>Postman</code>code></li>
   <li>Document findings and technical reproduction steps</li>
 </ul>
 

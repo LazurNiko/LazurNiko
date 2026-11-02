@@ -38,8 +38,6 @@
 ![Static Badge](https://img.shields.io/badge/Pale%20Alto-F26522?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4A90E2?style=for-the-badge&logo=wazuh&logoColor=white)
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right" alt="Animated illustration">
 <br>
 
 ### :zap: Cybersecurity Projects:
@@ -61,6 +59,8 @@
   <li>Analyze HTTP requests and responses using Burp Suite and Postman</li>
   <li>Document findings and technical reproduction steps</li>
 </ul>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="display: inline-block;float: right; width: 150px; height: 150px" align="right" alt="Animated illustration">
 
 #### Web-Penetration-Testing
 <ul style="display: inline-block">
